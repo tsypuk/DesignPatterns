@@ -1,10 +1,10 @@
 Design patterns:
 1. creational:
-    * Abstract Factory
-    * Builder
-    * Factory
-    * Prototype
-    * SingleTone
+* Abstract Factory
+* Builder
+* Factory
+* Prototype
+* SingleTone
 2. behavior
     * Chain of responsibility
     * Command
