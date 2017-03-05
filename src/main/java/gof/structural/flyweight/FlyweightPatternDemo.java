@@ -9,7 +9,7 @@ import gof.structural.flyweight.impl.Circle;
  * This type of design pattern comes under structural pattern as this pattern provides
  * ways to decrease object count thus improving the object structure of application.
  * Flyweight pattern tries to reuse already existing similar kind objects by storing them and
- * creates new object when no matching object is found.
+ * creates java8 object when no matching object is found.
  *
  * All the wrapper classes valueOf() method uses cached objects showing use of Flyweight design pattern. The best example is Java String class String Pool implementation.
  * -java.lang.Integer#valueOf(int)

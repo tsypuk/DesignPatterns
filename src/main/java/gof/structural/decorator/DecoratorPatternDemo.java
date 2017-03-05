@@ -8,7 +8,7 @@ import gof.structural.decorator.impl.RedShapeDecorator;
  * Created by rtsy on 21.03.2016.
  * The Decorator Patternattaches additional responsibilities to an object dynamically.
  * Decorators provide a fl exible alternative to subclassing for extending functionality.
- * Decorator pattern allows a user to add new functionality to an existing object without altering its structure.
+ * Decorator pattern allows a user to add java8 functionality to an existing object without altering its structure.
  * This type of design pattern comes under structural pattern as this pattern acts as a wrapper to existing class.
  * This pattern creates a decorator class which wraps the original class and provides additional functionality
  * keeping class methods signature intact.
